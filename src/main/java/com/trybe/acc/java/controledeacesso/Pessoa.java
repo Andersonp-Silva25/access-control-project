@@ -30,12 +30,12 @@ public class Pessoa {
     System.out.println("----- Quantidade -----");
     System.out.println("menores: " + count[0]);
     System.out.println("adultas: " + count[1]);
-    System.out.println("a partir de 50: " + count[2]);
+    System.out.println("a partir de 50: " + count[2] + "\n");
 
     System.out.println("----- Percentual -----");
     System.out.println("menores: " + percentageMenores + "%");
     System.out.println("adultas: " + percentageAdultas + "%");
-    System.out.println("a partir de 50: " + percentageMaiores + "%");
+    System.out.println("a partir de 50: " + percentageMaiores + "%\n");
 
     System.out.println("Total: " + totalPeople);
   }
