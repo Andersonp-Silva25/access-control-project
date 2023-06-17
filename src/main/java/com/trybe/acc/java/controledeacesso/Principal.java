@@ -1,5 +1,8 @@
 package com.trybe.acc.java.controledeacesso;
 
+/**
+ * Descrição da classe.
+ */
 public class Principal {
 
   /**
